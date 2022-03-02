@@ -27,6 +27,7 @@ Todos os objetos foram criados utilizando primitivas básicas da biblioteca, tex
 
 ## ⌨️ Movimentações ⌨️	
 
+![gif animated](https://user-images.githubusercontent.com/92803989/156390718-2b521b10-d4ba-4e2f-bd73-ef7e7306f094.gif)
 
 
 🖱️ Comandos:
